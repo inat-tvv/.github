@@ -1,4 +1,4 @@
-# Inat TV – HD Kalitede Canlı Yayın Keyfi
+# Inat TV 👑 İnat TV 👑 HD Kalitede Canlı Yayın Keyfi
 
 📺 **inat tv** ile canlı yayın izlemek artık çok daha kolay! Futbol karşılaşmaları, TV programları ve spor içerikleri anında, yüksek çözünürlükte ekranınızda.
 
