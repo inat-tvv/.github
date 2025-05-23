@@ -2,9 +2,11 @@
 
 📺 **inat tv** ile canlı yayın izlemek artık çok daha kolay! Futbol karşılaşmaları, TV programları ve spor içerikleri anında, yüksek çözünürlükte ekranınızda.
 
-## 🔗 Yayın Linki
+## 🔗 Link
 
-👉 [Canlı Yayını Başlatmak İçin Tıklayın](https://bosstv1.com/)
+<a href="https://bosstv1.com/">
+  <img src="https://i.ibb.co/FL3kspJ2/canliizle.gif"  style="max-width:100%; border-radius:12px;">
+</a>
 
 ## 🎯 Neden Inattv Tercih Edilmeli?
 
